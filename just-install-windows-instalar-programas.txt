@@ -1,22 +1,52 @@
-descargar e instalar programas basicos (x64):
+descargar e instalar programas basicos y complementos (x64):
 
-just-install firefox thunderbird 7zip anydesk audacity clementine-player  ditto git google-chrome libreoffice mega-sync naps2 nettime node rufus qbittorrent steam sublime-text-3 sumatrapdf vlc && just-install dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019 && just-install -a x86 dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
+just-install firefox thunderbird 7zip anydesk audacity clementine-player  ditto git etcher google-chrome libreoffice mega-sync naps2 nettime node rufus qbittorrent steam sublime-text-3 sumatrapdf vlc && just-install dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019 && just-install -a x86 dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
 
-descargar e instalar programas basicos (x86):
+descargar e instalar programas basicos y complementos (x86):
 
-just-install -a x86 firefox thunderbird 7zip anydesk audacity clementine-player  ditto git google-chrome libreoffice mega-sync naps2 nettime node rufus qbittorrent steam sublime-text-3 sumatrapdf vlc dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
+just-install -a x86 firefox thunderbird 7zip anydesk audacity clementine-player ditto git etcher google-chrome libreoffice mega-sync naps2 nettime node rufus qbittorrent steam sublime-text-3 sumatrapdf vlc dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
 
-descargar e instalar programas basicos:
+lista de programas basicos:
 
-just-install firefox thunderbird 7zip anydesk audacity clementine-player  ditto git google-chrome libreoffice mega-sync naps2 nettime node rufus qbittorrent steam sublime-text-3 sumatrapdf vlc
+firefox 
+thunderbird 
+7zip 
+anydesk 
+audacity 
+clementine-player 
+ditto 
+git 
+etcher 
+google-chrome 
+libreoffice 
+mega-sync 
+naps2 
+nettime 
+node 
+rufus 
+qbittorrent 
+steam 
+sublime-text-3 
+sumatrapdf 
+vlc
 
-descargar e instalar complementos:
+lista de complementos:
 
-just-install dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
-just-install -a x86 dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
+dotnet 
+directx-june2010 
+vcredist-2005 
+vcredist-2008 
+vcredist-2010 
+vcredist-2012 
+vcredist-2013 
+vcredist-2015 
+vcredist-2017 
+vcredist-2019
+
 
 aplicaciones con errores:
-just-install gimp whatsapp youtube-dl
+
+gimp
 
 aplicaciones faltantes:
 
