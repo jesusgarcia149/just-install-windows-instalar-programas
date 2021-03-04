@@ -1,10 +1,10 @@
 descargar e instalar programas basicos y complementos (x64):
 
-just-install firefox thunderbird 7zip anydesk audacity clementine-player  ditto git etcher google-chrome libreoffice mega-sync naps2 nettime node rufus qbittorrent steam sublime-text-3 sumatrapdf vlc && just-install dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019 && just-install -a x86 dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
+just-install firefox thunderbird whatsapp telegram 7zip anydesk audacity clementine-player ditto etcher google-chrome libreoffice mega-sync naps2 nettime rufus qbittorrent steam sumatrapdf vlc && just-install dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019 && just-install -a x86 dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
 
 descargar e instalar programas basicos y complementos (x86):
 
-just-install -a x86 firefox thunderbird 7zip anydesk audacity clementine-player ditto git etcher google-chrome libreoffice mega-sync naps2 nettime node rufus qbittorrent steam sublime-text-3 sumatrapdf vlc dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
+just-install -a x86 firefox thunderbird 7zip anydesk audacity clementine-player ditto etcher google-chrome libreoffice mega-sync naps2 nettime rufus qbittorrent steam sumatrapdf vlc dotnet directx-june2010 vcredist-2005 vcredist-2008 vcredist-2010 vcredist-2012 vcredist-2013 vcredist-2015 vcredist-2017 vcredist-2019
 
 lista de programas basicos:
 
@@ -50,10 +50,15 @@ gimp
 
 aplicaciones faltantes:
 
+quiterss
 clover
+Clavier
 unlocker
 xtreme-download-manager
 wincdemu
 wnetwatcher
 gameloop
 stremio
+
+descargar apliaciones faltantes:
+just-install wget
